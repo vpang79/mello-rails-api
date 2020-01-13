@@ -1,24 +1,23 @@
 # README
+Mello Full Stack project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A full stack version of the Mello (Trello clone) app with jQuery, modals, authentication, and drag and drop functionality.
 
-Things you may want to cover:
+Created for UT Web Developer Boot Camp. 
 
-* Ruby version
+https://pang-mello-rails.herokuapp.com/
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+Authors
+Vincent Pang
 
-* Database initialization
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-* How to run the test suite
+Acknowledgments
+Built under the guidance of UT Web Dev Boot Camp course.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Ruby version - 2.5.3
 
 * ...
